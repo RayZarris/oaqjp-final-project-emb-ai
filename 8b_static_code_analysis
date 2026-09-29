@@ -1,0 +1,6 @@
+theia@theiadocker-rayzarris:/home/project/final_project$ pylint server.py
+************* Module server
+server.py:13:29: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.23/10 (previous run: 9.23/10, +0.00)
