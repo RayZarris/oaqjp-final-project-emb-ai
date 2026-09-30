@@ -1,6 +1,7 @@
+theia@theiadocker-rayzarris:/home/project$ cd final_project
 theia@theiadocker-rayzarris:/home/project/final_project$ python3.11 test_emotion_detection.py
 .....
 ----------------------------------------------------------------------
-Ran 5 tests in 0.598s
+Ran 5 tests in 0.658s
 
 OK
